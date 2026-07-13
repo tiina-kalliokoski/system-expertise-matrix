@@ -42,7 +42,7 @@ Hopefully, the list below demonstrates my experience not only from a system-user
 
 - ✅ Jira (project owner)
 
-### Additional Experience, including for example
+### Additional Experience includes following things like
 
 - API integrations
 - Built-in automations, 3rd party automation
@@ -51,4 +51,7 @@ Hopefully, the list below demonstrates my experience not only from a system-user
 - SQL
 - Fabric
 - Process automation
-- AI-enabled code generation (Python, PySpark), AI-enabled visualization, agentic AI
+- Prompt Engineering
+- AI-enabled code generation (Python, PySpark) and debugging, AI-enabled visualization, agentic AI
+- Copilot, Claude, ICA (IBM's AI tool), ChatGPT
+- Miro, LucidChart for process descriptions
