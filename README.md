@@ -9,13 +9,13 @@ Hopefully, the list below demonstrates my experience not only from a system-user
 ### HRIS
 
 - ✅ HiBOB
-- ✅ SympaHR
+- ✅ SympaHR (system owner)
 - ✅ MepcoHRM
 
 ### Applicant Tracking Systems
 
-- ✅ TalentAdore
-- ✅ Laura Recruitment
+- ✅ TalentAdore (system owner)
+- ✅ Laura Recruitment (system owner)
 - ✅ TeamTailor
 
 ### Payroll Systems
@@ -28,7 +28,7 @@ Hopefully, the list below demonstrates my experience not only from a system-user
 
 ### Time Tracking & ERP
 
-- ✅ Tiima
+- ✅ Tiima (system owner)
 - ✅ NetSuite
 - ✅ Salesforce / Certinia
 - ✅ Customized ERP
@@ -36,17 +36,19 @@ Hopefully, the list below demonstrates my experience not only from a system-user
 ### Learning & Development
 
 - ✅ Leapsome
-- ✅ Power Platform Apps
+- ✅ Power Platform Apps (system owner)
 
 ### Project & Workflow Management
 
-- ✅ Jira
+- ✅ Jira (project owner)
 
-### Additional Experience
+### Additional Experience, including for example
 
 - API integrations
-- HR analytics platforms
+- Built-in automations, 3rd party automation
 - KPI dashboards
-- Power BI reporting & analytics, Power BI Service, Power BI Apps
+- Power Query, Power BI reporting & analytics, Power BI Service, Power BI Apps
+- SQL
+- Fabric
 - Process automation
-- AI-enabled HR technology
+- AI-enabled code generation (Python, PySpark), AI-enabled visualization, agentic AI
